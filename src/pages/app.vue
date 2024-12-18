@@ -113,6 +113,9 @@
           <v-btn href="https://twitter.com" target="_blank" icon>
             <v-icon color="white">mdi-twitter</v-icon>
           </v-btn>
+          <v-btn href="https://snapchat.com" target="_blank" icon>
+            <v-icon color="white">mdi-snapchat</v-icon>
+          </v-btn>
         </div>
       </v-col>
     </v-footer>
